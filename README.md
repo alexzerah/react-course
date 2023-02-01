@@ -18,13 +18,13 @@ $ npm start
 ## Le dossier
 
 ```sh
-|-node_modules
-|-public
-|-src
+|-/node_modules
+|-/public
+|-/src
 |-.gitignore
 |-package-lock.json
 |-package.json
-|README.md
+|-README.md
 ```
 
 - `node\_modules` : Ensemble de tous les modules et les modules requis pour l’application.
